@@ -2,7 +2,7 @@
 
 ## About
 
-This repository keeps track of wonderful tech books I've enjoyed regarding programming, computer science, AI, and machine learning.
+This repository keeps track of the wonderful tech books I've enjoyed regarding programming, computer science, AI, and machine learning.
 
 ## The list in chronological order
 
