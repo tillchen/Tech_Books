@@ -57,17 +57,17 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
 
     * Started reading: June 2019;
     * Finished reading: June 2019;
-    * Comments: Another marvelous from the Head First series. It took me only a few days to finish this enjoyable book. Best introductory book for Java!
+    * Comments: Another marvelous book from the Head First series. It took me only a few days to finish this enjoyable book. Best introductory book for Java!
     * Recommended for:
         * Anyone new to Java.
 
 7. [Head First Android Development: A Brain-Friendly Guide, 2nd Edition](https://www.amazon.com/Head-First-Android-Development-Brain-Friendly/dp/1491974052/ref=sr_1_1?keywords=head+first+android&qid=1562253583&s=gateway&sr=8-1)
 
     * Started reading: June 2019;
-    * Finished reading: In progress;
-    * Comments: To be filled;
+    * Finished reading: July 2019;
+    * Comments: As the Head First series always is, this book is a fun yet comprehensive guide for Android or even mobile development. It piqued me interest and inspired me to explore more about the world of mobile development.
     * Recommended for:
-        * To be filled.
+        * Anyone who's new to Android or mobile development.
 
 8. [Head First JavaScript Programming: A Brain-Friendly Guide, 1st Edition](https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly/dp/144934013X/ref=sr_1_1?crid=2NISC4BUYXL03&keywords=head+first+javascript+programming&qid=1562253717&s=gateway&sprefix=head+first+javascript%2Caps%2C402&sr=8-1)
 
