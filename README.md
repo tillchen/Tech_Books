@@ -1,10 +1,17 @@
 # Tech Books
 
+## Table of Contents
+
+* [Tech Books](#Tech-Books)
+  * [Table of Contents](#Table-of-Contents)
+  * [About](#About)
+  * [The List in Chronological Order](#The-List-in-Chronological-Order)
+
 ## About
 
 This repository keeps track of the wonderful tech books I've enjoyed regarding programming, computer science, AI, and machine learning.
 
-## The list in chronological order
+## The List in Chronological Order
 
 1. [Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_1?keywords=python+crash+course&qid=1558808134&s=gateway&sr=8-1)
 
