@@ -79,10 +79,10 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
 8. [Head First JavaScript Programming: A Brain-Friendly Guide, 1st Edition](https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly/dp/144934013X/ref=sr_1_1?crid=2NISC4BUYXL03&keywords=head+first+javascript+programming&qid=1562253717&s=gateway&sprefix=head+first+javascript%2Caps%2C402&sr=8-1)
 
     * Started reading: July 2019;
-    * Finished reading: In progress;
-    * Comments: To be filled;
+    * Finished reading: July 2019;
+    * Comments: Very good introduction to JavaScript. The Head First Series did it again!
     * Recommended for:
-        * To be filled.
+        * Anyone who's new to JavaScript.
 
 9. [Artificial Intelligence: A Modern Approach, 3rd Edition](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_1?keywords=a+modern+approach&qid=1562253866&s=gateway&sr=8-1)
 
