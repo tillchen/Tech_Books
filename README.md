@@ -91,3 +91,11 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Comments: To be filled;
     * Recommended for:
         * To be filled.
+
+10. [The Road to learn React](https://www.amazon.com/Road-learn-React-pragmatic-React-js/dp/172004399X/ref=sr_1_1?keywords=the+road+to+learn+react&qid=1563286812&s=gateway&sr=8-1)
+
+    * Started reading: July 2019;
+    * Finished reading: in progress;
+    * Comments: To be filled;
+    * Recommended for:
+        * To be filled.
