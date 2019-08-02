@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-* [Tech Books](#Tech-Books)
-  * [Table of Contents](#Table-of-Contents)
-  * [About](#About)
-  * [The List in Chronological Order](#The-List-in-Chronological-Order)
+* [Tech Books](#tech-books)
+  * [Table of Contents](#table-of-contents)
+  * [About](#about)
+  * [The List in Chronological Order](#the-list-in-chronological-order)
 
 ## About
 
@@ -80,7 +80,7 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
 
     * Started reading: July 2019;
     * Finished reading: July 2019;
-    * Comments: Very good introduction to JavaScript. The Head First Series did it again!
+    * Comments: A very good introduction to JavaScript. The Head First Series did it again!
     * Recommended for:
         * Anyone who's new to JavaScript.
 
@@ -92,7 +92,23 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Recommended for:
         * To be filled.
 
-10. [The Road to learn React](https://www.amazon.com/Road-learn-React-pragmatic-React-js/dp/172004399X/ref=sr_1_1?keywords=the+road+to+learn+react&qid=1563286812&s=gateway&sr=8-1)
+10. [Head First SQL](https://www.amazon.com/Head-First-SQL-Brain-Learners/dp/0596526849/ref=sr_1_1?keywords=head+first+sql&qid=1563719318&s=gateway&sr=8-1)
+
+    * Started reading: July 2019;
+    * Finished reading: in progress;
+    * Comments: To be filled;
+    * Recommended for:
+        * To be filled.
+
+11. [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction-dp-1593273894/dp/1593273894/ref=mt_paperback?_encoding=UTF8&me=&qid=1564723984)
+
+    * Started reading: July 2019;
+    * Finished reading: July 2019;
+    * Comments: Another fabulous book from my beloved publisher No Starch Press. It surely can teach you very handy Linux commands in Bash!
+    * Recommended for:
+        * Every Linux and macOS superuser!
+
+12. The Swift Programming Language
 
     * Started reading: July 2019;
     * Finished reading: in progress;
