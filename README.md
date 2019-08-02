@@ -95,10 +95,10 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
 10. [Head First SQL](https://www.amazon.com/Head-First-SQL-Brain-Learners/dp/0596526849/ref=sr_1_1?keywords=head+first+sql&qid=1563719318&s=gateway&sr=8-1)
 
     * Started reading: July 2019;
-    * Finished reading: in progress;
-    * Comments: To be filled;
+    * Finished reading: August 2019;
+    * Comments: As always, a fun journey with another Head First series book!
     * Recommended for:
-        * To be filled.
+        * Programmers who need to know MySQL or SQL in general.
 
 11. [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction-dp-1593273894/dp/1593273894/ref=mt_paperback?_encoding=UTF8&me=&qid=1564723984)
 
@@ -111,7 +111,15 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
 12. The Swift Programming Language
 
     * Started reading: July 2019;
-    * Finished reading: in progress;
+    * Finished reading: August 2019;
+    * Comments: The official language made by Apple! So exciting to learn another great modern programming language. the book is the cornerstone for iOS programming.
+    * Recommended for:
+        * Every developer interested in iOS development.
+
+13. [iOS Programming: The Big Nerd Ranch Guide](https://www.amazon.com/iOS-Programming-Ranch-Guide-Guides-dp-0134682335/dp/0134682335/ref=mt_paperback?_encoding=UTF8&me=&qid=1564756980)
+
+    * Started reading: August 2019;
+    * Finished reading: In progress;
     * Comments: To be filled;
     * Recommended for:
         * To be filled.
