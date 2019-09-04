@@ -116,9 +116,9 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Recommended for:
         * Every developer interested in iOS development.
 
-13. [iOS Programming: The Big Nerd Ranch Guide](https://www.amazon.com/iOS-Programming-Ranch-Guide-Guides-dp-0134682335/dp/0134682335/ref=mt_paperback?_encoding=UTF8&me=&qid=1564756980)
+13. [Head First Kotlin: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide/dp/1491996692/ref=sr_1_1?keywords=head+first+kotlin&qid=1567580813&s=gateway&sr=8-1)
 
-    * Started reading: August 2019;
+    * Started reading: September 2019;
     * Finished reading: In progress;
     * Comments: To be filled;
     * Recommended for:
