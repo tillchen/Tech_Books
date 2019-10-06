@@ -84,15 +84,7 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Recommended for:
         * Anyone who's new to JavaScript.
 
-9. [Artificial Intelligence: A Modern Approach, 3rd Edition](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518/ref=sr_1_1?keywords=a+modern+approach&qid=1562253866&s=gateway&sr=8-1)
-
-    * Started reading: July 2019;
-    * Finished reading: in progress;
-    * Comments: To be filled;
-    * Recommended for:
-        * To be filled.
-
-10. [Head First SQL](https://www.amazon.com/Head-First-SQL-Brain-Learners/dp/0596526849/ref=sr_1_1?keywords=head+first+sql&qid=1563719318&s=gateway&sr=8-1)
+9. [Head First SQL](https://www.amazon.com/Head-First-SQL-Brain-Learners/dp/0596526849/ref=sr_1_1?keywords=head+first+sql&qid=1563719318&s=gateway&sr=8-1)
 
     * Started reading: July 2019;
     * Finished reading: August 2019;
@@ -100,7 +92,7 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Recommended for:
         * Programmers who need to know MySQL or SQL in general.
 
-11. [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction-dp-1593273894/dp/1593273894/ref=mt_paperback?_encoding=UTF8&me=&qid=1564723984)
+10. [The Linux Command Line: A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction-dp-1593273894/dp/1593273894/ref=mt_paperback?_encoding=UTF8&me=&qid=1564723984)
 
     * Started reading: July 2019;
     * Finished reading: July 2019;
@@ -108,7 +100,7 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Recommended for:
         * Every Linux and macOS superuser!
 
-12. The Swift Programming Language
+11. The Swift Programming Language
 
     * Started reading: July 2019;
     * Finished reading: August 2019;
@@ -116,7 +108,7 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Recommended for:
         * Every developer interested in iOS development.
 
-13. [Head First Kotlin: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide/dp/1491996692/ref=sr_1_1?keywords=head+first+kotlin&qid=1567580813&s=gateway&sr=8-1)
+12. [Head First Kotlin: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide/dp/1491996692/ref=sr_1_1?keywords=head+first+kotlin&qid=1567580813&s=gateway&sr=8-1)
 
     * Started reading: September 2019;
     * Finished reading: In progress;
