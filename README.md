@@ -108,10 +108,10 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Recommended for:
         * Every developer interested in iOS development.
 
-12. [Head First Kotlin: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide/dp/1491996692/ref=sr_1_1?keywords=head+first+kotlin&qid=1567580813&s=gateway&sr=8-1)
+12. [Head First PHP & MySQL: A Brain-Friendly Guide](https://www.amazon.com/Head-First-PHP-MySQL-Brain-Friendly/dp/0596006306/ref=sr_1_1?crid=11R38SFUMD2C3&keywords=head+first+php&qid=1573503758&sprefix=%2Caps%2C275&sr=8-1)
 
-    * Started reading: September 2019;
+    * Started reading: November 2019;
     * Finished reading: In progress;
     * Comments: To be filled;
     * Recommended for:
-        * To be filled.
+        * To be filled
