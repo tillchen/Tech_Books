@@ -107,11 +107,3 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Comments: The official language made by Apple! So exciting to learn another great modern programming language. the book is the cornerstone for iOS programming.
     * Recommended for:
         * Every developer interested in iOS development.
-
-12. [Head First PHP & MySQL: A Brain-Friendly Guide](https://www.amazon.com/Head-First-PHP-MySQL-Brain-Friendly/dp/0596006306/ref=sr_1_1?crid=11R38SFUMD2C3&keywords=head+first+php&qid=1573503758&sprefix=%2Caps%2C275&sr=8-1)
-
-    * Started reading: November 2019;
-    * Finished reading: In progress;
-    * Comments: To be filled;
-    * Recommended for:
-        * To be filled
