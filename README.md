@@ -107,3 +107,11 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Comments: The official language made by Apple! So exciting to learn another great modern programming language. the book is the cornerstone for iOS programming.
     * Recommended for:
         * Every developer interested in iOS development.
+
+12. [Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node 2nd ed. Edition](https://www.amazon.com/Pro-MERN-Stack-Development-Express/dp/1484243900/ref=sr_1_1?keywords=pro+mern&qid=1573570428&sr=8-1)
+
+    * Started reading: November 2019;
+    * Finished reading: In Progress;
+    * Comments: To be filled.
+    * Recommended for:
+        * To be filled.
