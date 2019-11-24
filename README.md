@@ -107,3 +107,11 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Comments: The official language made by Apple! So exciting to learn another great modern programming language. the book is the cornerstone for iOS programming.
     * Recommended for:
         * Every developer interested in iOS development.
+
+12. App Development with Swift
+
+    * Started reading: November 2019;
+    * Finished reading: In progress;
+    * Comments: To be filled.
+    * Recommended for:
+        * To be filled.
