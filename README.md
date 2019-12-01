@@ -111,7 +111,7 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
 12. App Development with Swift
 
     * Started reading: November 2019;
-    * Finished reading: In progress;
-    * Comments: To be filled.
+    * Finished reading: December 2019;
+    * Comments: The official book made by Apple. I believe this is by far the best resource one can get for iOS development (after trying 2 other different books). It can make you a confident iOS developer!
     * Recommended for:
-        * To be filled.
+        * iOS development beginners.
