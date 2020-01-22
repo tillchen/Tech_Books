@@ -115,3 +115,12 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Comments: The official book made by Apple. I believe this is by far the best resource one can get for iOS development (after trying 2 other different books). It can make you a confident iOS developer!
     * Recommended for:
         * iOS development beginners.
+
+13. [Head First Kotlin](https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide/dp/1491996692/ref=sr_1_1?crid=1TTZWEXZ1K0RX&keywords=head+first+kotlin&qid=1579714711&sprefix=head+first+Kotlin%2Caps%2C345&sr=8-1)
+
+    * Started reading: January 2020;
+    * Finished reading: January 2020;
+    * Comments: As the Head First series always does, this is a fantastic book for learning Kotlin. In fact, I finished this book in just two days due to the tremendous similarities that Kotlin and Swift share.
+    * Recommended for:
+        * Android developers!
+        * JVM developers!
