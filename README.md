@@ -124,3 +124,10 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Recommended for:
         * Android developers!
         * JVM developers!
+
+14. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=1HEGLYDT1L4CK&keywords=hands+on+machine+learning&qid=1580677520&sprefix=hands+on+ma%2Caps%2C221&sr=8-1)
+
+    * Started reading: February 2020;
+    * Finished reading: In progress;
+    * Comments: To be filled;
+    * Recommended for: To be filled.
