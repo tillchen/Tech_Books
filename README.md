@@ -131,3 +131,10 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Finished reading: In progress;
     * Comments: To be filled;
     * Recommended for: To be filled.
+
+15. [Pro Git, 2nd Edition](https://git-scm.com/book)
+
+    * Started reading: March 2020;
+    * Finished reading: March 2020;
+    * Comments: Simple THE best book to fully gasp Git!
+    * Recommended for: All developers:).
