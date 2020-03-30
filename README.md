@@ -138,3 +138,10 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Finished reading: March 2020;
     * Comments: Simple THE best book to fully gasp Git!
     * Recommended for: All developers:).
+
+16. [Practical Vim: Edit Text at the Speed of Thought 2nd Edition](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought-dp-1680501275/dp/1680501275/ref=mt_paperback?_encoding=UTF8&me=&qid=1585561819)
+
+    * Started reading: Probably between 2018 and 2019;
+    * Finished reading: the same as above;
+    * Comments: THE best book for learning Vim. Now I use the Vim key maps for all of my editors and IDEs. A huge productivity boost!
+    * Recommended for: All developers!
