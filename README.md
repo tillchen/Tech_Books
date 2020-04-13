@@ -145,3 +145,10 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Finished reading: the same as above;
     * Comments: THE best book for learning Vim. Now I use the Vim key maps for all of my editors and IDEs. A huge productivity boost!
     * Recommended for: All developers!
+
+17. [Head First Design Patterns 2nd Edition](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-dp-0596007124/dp/0596007124/ref=mt_paperback?_encoding=UTF8&me=&qid=1586770225)
+
+    * Started reading: March 2020;
+    * Finished reading: April 2020;
+    * Comments: Great intro for design patterns! The examples are in Java, which is a huge plus. For a deeper understanding of patterns, the GoF book is recommended:)
+    * Recommended for: All OOP developers.
