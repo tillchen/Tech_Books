@@ -152,3 +152,10 @@ This repository keeps track of the wonderful tech books I've enjoyed regarding p
     * Finished reading: April 2020;
     * Comments: Great intro for design patterns! The examples are in Java, which is a huge plus. For a deeper understanding of patterns, the GoF book is recommended:)
     * Recommended for: All OOP developers.
+
+18. [Head First Go 1st Edition](https://www.amazon.com/Head-First-Go-Jay-McGavren/dp/1491969555)
+
+    * Started reading: March 2020;
+    * Finished reading: April 2020;
+    * Comments: Fantastic intro for Go from the Head First Series!
+    * Recommended for: Backend/Systems developers.
