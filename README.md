@@ -9,7 +9,7 @@
 
 ## About
 
-This repository keeps track of the wonderful tech books I've enjoyed regarding programming, computer science, AI, and machine learning.
+This repository keeps track of the wonderful tech books I've enjoyed regarding programming, computer science, AI, and machine learning. It's not longer maintained since I migrated to [Goodreads](https://www.goodreads.com/review/list/70012245-tianyao-chen?shelf=tech-books)
 
 ## The List in Chronological Order
 
